@@ -2,6 +2,8 @@
 
 - Features: **» Grab Discord Information and HQ Friends. » Grab Password & cookies. » Grab Files. » Shows Crypto Wallets » Grab metamask/exodus » Grab Telegram » Grab chromium based Passwords**
 
+- Setup: **First paste and save your webhook address instead of "WEBHOOK HERE" in Creal.py If you use obfuscator it will be undetectable. if you have an error while installing try "pip install -r requirements.txt" Now You need to use pyinstaller to convert python file to exe. Open CMD and type pip install auto_py_to_exe And after installed "python -m auto_py_to_exe" Browse file Select One file and Windows Based (hide the console)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/hoax#8143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hoax#8143" height="30" width="40" /></a>
